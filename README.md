@@ -1,24 +1,36 @@
+![](https://img.shields.io/badge/Microverse-blueviolet) ![](https://img.shields.io/badge/RoR-red)
+
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This projec was the first oppurtunity to build a real Rails applications, creating and testing CRUD: Create, Read, Update and Delete.
 
-Things you may want to cover:
+The original project can be found in [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/ruby-on-rails-ruby-on-rails)
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
+- Visual Studio, Git & GitHub
 
-* Configuration
+## Author
 
-* Database creation
+👩🏼‍💻 **Ana Paula Hübner**
 
-* Database initialization
+- GitHub: [@anapdh](https://github.com/anapdh)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ana-paula-hübner-7a9484181)
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
 
-* Deployment instructions
+Contributions, issues, and feature requests are welcome!
 
-* ...
+Feel free to check the [issues page](https://github.com/anapdh/SQL-Zoo/issues).
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+## 📝 License
+
+This project is [MIT](license.md/) licensed.
