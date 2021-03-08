@@ -16,7 +16,8 @@ The original project can be found in [The Odin Project](https://www.theodinproje
 👩🏼‍💻 **Ana Paula Hübner**
 
 - GitHub: [@anapdh](https://github.com/anapdh)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ana-paula-hübner-7a9484181)
+- Twitter: [@dev_anahub](https://twitter.com/dev_anahub)
+- LinkedIn: [Ana Paula Hübner](https://www.linkedin.com/in/anapdh)
 
 
 ## 🤝 Contributing
